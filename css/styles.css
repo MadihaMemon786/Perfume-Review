@@ -1,0 +1,40 @@
+img {
+    margin-left: 20%;
+    margin-top: 200px;
+    margin-bottom: 20%;
+    float: left;
+
+}
+
+h2 {
+    text-align: center;
+
+    font-family: "Montserrat-Italic";
+
+}
+
+p {
+    text-align: center;
+    font-size: 17px;
+    font-family: 'El Messiri', sans-serif;
+    columns: grey;
+}
+
+div {
+    background-color: #faebd7;
+    overflow: hidden;
+}
+
+
+.center {
+    margin-top: 250px;
+    padding-left: 1rem;
+    text-align: center;
+    line-height: 2;
+
+    width: 33%;
+}
+
+hr {
+    visibility: hidden;
+}
